@@ -4,4 +4,5 @@ test
 test
 test
 
-NewBranch=dev
+NewBranch=devNewBranch=dev
+Add.NewBranch=feature;
